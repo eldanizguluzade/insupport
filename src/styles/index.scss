@@ -1,3 +1,10 @@
-h1{
-    color:red;
+$bg-base: #f3f9fb;
+
+body {
+  background-color: $bg-base;
+}
+.color-primary {
+  color: #4893ff;
+}
+.header-name {
 }
